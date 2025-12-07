@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "恋だろ",
+  "base_artist": "wacci",
+  "createdAt": "2025-12-07T08:07:42.718982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋だろ",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/01_恋だろ_wacci.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋だろ",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/02_恋だろ_wacci.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "wacci 『恋だろ』 Music Video",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/03_wacci_『恋だろ』_Music_Video_wacci.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋だろ - From THE FIRST TAKE",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/04_恋だろ_-_From_THE_FIRST_TAKE_wacci.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋だろ - Koidaro",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/05_恋だろ_-_Koidaro_wacci.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋だろ - From THE FIRST TAKE",
+      "artist": "wacci & 松下洸平",
+      "has_synced": true,
+      "path": "select/06_恋だろ_-_From_THE_FIRST_TAKE_wacci_&_松下洸平.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋だろ",
+      "artist": "wacci",
+      "has_synced": false,
+      "path": "select/pl_01_恋だろ_wacci.txt"
+    }
+  ]
+}
